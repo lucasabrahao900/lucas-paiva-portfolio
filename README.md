@@ -20,10 +20,10 @@ URL for the project files: [https://github.com/lucasabrahao900/MLB-Shiny-App](ht
 
 ### Projects from my Post Graduate Program:
 
-API for Data Scrapping, Cleaning and etc: [https://github.com/lucasabrahao900/Tech-Challenge---MLE.git](https://github.com/lucasabrahao900/Tech-Challenge---MLE.git)
-XGBoost Model and Web App Implementation Functionallity: [https://github.com/lucasabrahao900/TechC_Fase3.git](https://github.com/lucasabrahao900/TechC_Fase3.git)
-Time Series with LSTM Model and App + API for using it: [https://github.com/lucasabrahao900/TechChallenge---Fase4.git](https://github.com/lucasabrahao900/TechChallenge---Fase4.git)
-Recommendation System: [https://github.com/lucasabrahao900/Datathon.git](https://github.com/lucasabrahao900/Datathon.git)
+- API for Data Scrapping, Cleaning and etc: [https://github.com/lucasabrahao900/Tech-Challenge---MLE.git](https://github.com/lucasabrahao900/Tech-Challenge---MLE.git)
+- XGBoost Model and Web App Implementation Functionallity: [https://github.com/lucasabrahao900/TechC_Fase3.git](https://github.com/lucasabrahao900/TechC_Fase3.git)
+- Time Series with LSTM Model and App + API for using it: [https://github.com/lucasabrahao900/TechChallenge---Fase4.git](https://github.com/lucasabrahao900/TechChallenge---Fase4.git)
+- Recommendation System: [https://github.com/lucasabrahao900/Datathon.git](https://github.com/lucasabrahao900/Datathon.git)
 
 
 
