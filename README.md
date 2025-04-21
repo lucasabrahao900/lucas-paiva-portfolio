@@ -10,8 +10,7 @@ Here, I'll showcase some projects I've worked on during my personal 'free' time.
 
 Here, I present a selection of notebooks and scripts encompassing my general analyses. Within this collection, you'll discover intriguing code snippets and insights, delving not only into programming but also exploring various subjects that captured my interest at the time. 
 
-URL for the project: https://github.com/lucasabrahao900/general-analysis
-[Project URL](https://github.com/lucasabrahao900/general-analysis)
+URL for the Rep: [https://github.com/lucasabrahao900/general-analysis](https://github.com/lucasabrahao900/general-analysis)
 
 ### MLB Shiny App 
 
